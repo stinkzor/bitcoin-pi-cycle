@@ -2,7 +2,7 @@
   "name": "Bitcoin Pi Cycle Top Indicator",
   "short_name": "BTC Pi Cycle",
   "description": "Bitcoin Pi Cycle und Rainbow Chart mit tagesaktuellen Live-Daten",
-  "start_url": "./",
+  "start_url": "https://github.com/stinkzor/bitcoin-pi-cycle/blob/main/manifest.json",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0c0c0c",
