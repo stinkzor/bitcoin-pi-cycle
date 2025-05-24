@@ -1,0 +1,26 @@
+{
+  "name": "Bitcoin Pi Cycle Top Indicator",
+  "short_name": "BTC Pi Cycle",
+  "description": "Bitcoin Pi Cycle und Rainbow Chart mit tagesaktuellen Live-Daten",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0c0c",
+  "theme_color": "#f7931a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "utilities"],
+  "lang": "de-DE"
+}
